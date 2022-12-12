@@ -1,3 +1,3 @@
 # RestAPIHackerRank
 
-## Repository contains solutions to the two problems offered in Rest API (intermediate) by HackerRank
+## Repository contains solutions to the problems offered in Rest API (intermediate) by HackerRank
